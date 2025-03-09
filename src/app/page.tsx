@@ -262,14 +262,14 @@ export default function Home() {
           >
             <div className="flex items-start gap-3">
               <div className="h-12 w-12 rounded-full overflow-hidden bg-zinc-800">
-                <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=kevin" alt="avatar" className="w-full h-full object-cover" />
+                <img src="/users/tyowk.png" alt="avatar" className="w-full h-full object-cover" />
               </div>
               <div>
-                <h4 className="font-semibold text-gray-200">KevinBytes</h4>
-                <p className="text-gray-500">@kevindev</p>
+                <h4 className="font-semibold text-gray-200">Tyowk</h4>
+                <p className="text-gray-500">@tyowk.dev</p>
               </div>
             </div>
-            <p className="text-gray-300 mt-4">The performance is so good, my bot started responding to messages before Discord even existed. Time travel? Maybe.</p>
+            <p className="text-gray-300 mt-4">Fast, stable, and responsive support. <s>cheap price</s> free! overall, satisfied!</p>
           </MotionDiv>
 
           <MotionDiv 
