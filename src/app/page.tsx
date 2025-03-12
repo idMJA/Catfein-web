@@ -297,6 +297,7 @@ export default function Home() {
 									width={48}
 									height={48}
 									className="w-full h-full object-cover"
+									unoptimized
 								/>
 							</div>
 							<div>
@@ -305,8 +306,8 @@ export default function Home() {
 							</div>
 						</div>
 						<p className="text-gray-300 mt-4">
-							The new website IS SOO MUCH BETTER. But like make the navigation
-							easier Home, Servers, Store, News
+							Very easy to use, used friendly and quick ticket system, the best
+							uptime and best host compares to its competitors, overall 10/10
 						</p>
 					</MotionDiv>
 
